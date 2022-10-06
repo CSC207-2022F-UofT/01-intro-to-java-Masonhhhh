@@ -45,11 +45,8 @@ public class Basics {
 //        int[] my_numbers = {3, 5, 23, 412, 41, 41, 4, 5, 13, 2};
 //        System.out.println(oddSum(my_numbers));
 
-        /* TODO (Task 1): Write a line of code below that prints the string
-         *                Hello World!
-         */
-        System.out.println("Hello World!");
 
+        System.out.println("Hello World!");
 
         /* 4. In Python, we could declare variables using a simple assignment
          *    statement. For example:
@@ -61,11 +58,6 @@ public class Basics {
          *        int x;
          *
          *    (Relevant reading: 1.2. Variables and Types)
-         */
-
-        /*
-         * TODO (Task 2): Create a variable named my_variable and assign it the
-         *                value 100.
          */
 
         /* Do not remove the line below: if you did task 2 correctly, then
@@ -92,9 +84,6 @@ public class Basics {
          */
 
         /*
-         * TODO (Task 3): Create a for-loop that loops from 10 to 0, printing
-         *                the following at each iteration:
-         *                Current count: #
          *
          * e.g. the end result should look like:
          * Current count: 10
