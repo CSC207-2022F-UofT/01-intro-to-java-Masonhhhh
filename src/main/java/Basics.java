@@ -38,17 +38,17 @@ public class Basics {
          *
          *    (Relevant reading: 1.1.3. Printing things)
          */
-        String my_string = "this is my string";
-        System.out.println(split(my_string));
-        /* this should print tims */
-        System.out.println(7 + 5);
-        int[] my_numbers = {3, 5, 23, 412, 41, 41, 4, 5, 13, 2};
-        System.out.println(oddSum(my_numbers));
+//        String my_string = "this is my string";
+//        System.out.println(split(my_string));
+//        /* this should print tims */
+//        System.out.println(7 + 5);
+//        int[] my_numbers = {3, 5, 23, 412, 41, 41, 4, 5, 13, 2};
+//        System.out.println(oddSum(my_numbers));
 
         /* TODO (Task 1): Write a line of code below that prints the string
          *                Hello World!
          */
-        System.out.println("Hello World");
+        System.out.println("Hello World!");
 
 
         /* 4. In Python, we could declare variables using a simple assignment
@@ -73,7 +73,6 @@ public class Basics {
          * this file!
          */
         int my_variable = 100;
-
         System.out.println("my_variable's value is " + my_variable);
 
         /* 5. In Python, we could write a loop that iterates using:
