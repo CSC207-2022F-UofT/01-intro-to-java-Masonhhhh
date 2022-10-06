@@ -38,15 +38,10 @@ public class Basics {
          *
          *    (Relevant reading: 1.1.3. Printing things)
          */
-//        String my_string = "this is my string";
-//        System.out.println(split(my_string));
-//        /* this should print tims */
-//        System.out.println(7 + 5);
-//        int[] my_numbers = {3, 5, 23, 412, 41, 41, 4, 5, 13, 2};
-//        System.out.println(oddSum(my_numbers));
+        System.out.println(1);
 
-
-        System.out.println("Hello World!");
+        String my_string = "Hello World!";
+        System.out.println(my_string);
 
         /* 4. In Python, we could declare variables using a simple assignment
          *    statement. For example:
@@ -64,8 +59,8 @@ public class Basics {
          * you should see the message "my_variable's value is 100" if you run
          * this file!
          */
-        int my_variable = 100;
-        System.out.println("my_variable's value is " + my_variable);
+
+        System.out.println("my_variable's value is " + 100);
 
         /* 5. In Python, we could write a loop that iterates using:
          *        for <variable> in <values>:
@@ -93,7 +88,7 @@ public class Basics {
          * Current count: 0
          */
         for(int i = 10; i>=0; i--){
-            System.out.println(i);
+            System.out.println("Current count: " + i);
         }
 
     }
