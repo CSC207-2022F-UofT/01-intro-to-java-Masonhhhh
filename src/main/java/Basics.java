@@ -38,16 +38,14 @@ public class Basics {
          *
          *    (Relevant reading: 1.1.3. Printing things)
          */
-        String my_string = "this is my string";
-        System.out.println(split(my_string));
-        /* this should print tims */
-        System.out.println(7 + 5);
-        int[] my_numbers = {3, 5, 23, 412, 41, 41, 4, 5, 13, 2};
-        System.out.println(oddSum(my_numbers));
+//        String my_string = "this is my string";
+//        System.out.println(split(my_string));
+//        /* this should print tims */
+//        System.out.println(7 + 5);
+//        int[] my_numbers = {3, 5, 23, 412, 41, 41, 4, 5, 13, 2};
+//        System.out.println(oddSum(my_numbers));
 
-        /* TODO (Task 1): Write a line of code below that prints the string
-         *                Hello World!
-         */
+
         System.out.println("Hello World");
 
 
@@ -63,11 +61,7 @@ public class Basics {
          *    (Relevant reading: 1.2. Variables and Types)
          */
 
-        /*
-         * TODO (Task 2): Create a variable named my_variable and assign it the
-         *                value 100.
-         */
-        int x = 100;
+
 
         /* Do not remove the line below: if you did task 2 correctly, then
          * you should see the message "my_variable's value is 100" if you run
